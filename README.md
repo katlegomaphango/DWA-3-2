@@ -1,5 +1,3 @@
-# DWA-3-2
-
 # DWA_03.5 Knowledge Check 2
 
 ## Using what you’ve learned about Gherkin Syntax, write user stories to describe the behaviour of the “+” and “-” buttons from 	[Tally Count App](https://tallycount.app/).
